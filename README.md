@@ -3,7 +3,7 @@ These are reading notes for my Code 102 course with Code Fellows
 
 
 
-My name is Natalie Stone, and I am a Software Developer with Code Fellows.
+My name is Natalie Stone, and I am a Software Developer with Code Fellows. ![GithHub Profile](https://github.com/AgateHunter)
 
 
   
