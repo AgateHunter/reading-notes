@@ -30,3 +30,7 @@ In contrast, those who believe that challenges, obstacles, setbacks, and frustra
 
 3. This is my journey to run at my own speed.
    ![Inspirational Quote](https://quotefancy.com/media/wallpaper/3840x2160/184310-Robin-S-Sharma-Quote-Run-your-own-race-Who-cares-what-others-are.jpg)
+
+### Table of Contents
+
+[102 Reading Notes - 01](102-notes/read01.md)
