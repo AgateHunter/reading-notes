@@ -20,12 +20,11 @@ In contrast, those who believe that challenges, obstacles, setbacks, and frustra
 > *VS*
 > 
 > I tried to write this with markup, and it didn't work. **Hmm, I wonder why. Let me ask my classmate**
-<P>
-  
-2. <p>I will be open to accepting criticisim as a way to learn from others
-  
-   "Natalie, your code looks like garbage!"<sup>I should ask him what he means by that, and what area could be improved.</sup>
 
+
+2. I will be open to accepting criticisim as a way to learn from others
+  
+   "Natalie, your code looks like garbage!" I should ask him what he means by that, and what area could be improved.
 
 
 3. This is my journey to run at my own speed.
