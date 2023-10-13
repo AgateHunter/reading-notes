@@ -12,7 +12,6 @@ My name is Natalie Stone, and I am a Software Developer with Code Fellows. After
 Join me on my learning journey, as I exercise my mind's capacity to learn new things, and practices the many ways of having a growth mindset. On this page, I will be documenting key concepts necessary for strong software developers, and sharing them in a way that is easily accessible, even to those with no technical background! 
 
 
-
 ## Table of Contents
 
 ### Code 102 Reading Notes
