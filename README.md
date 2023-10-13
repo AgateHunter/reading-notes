@@ -2,9 +2,7 @@
 
 
 ## Introduction
-My name is Natalie Stone, and I am a Software Developer with Code Fellows. After an expansive career as a military musician, I decided to change course and explore the ways that I can positively impact the world around me through technology.
-
-![GithHub Profile](https://github.com/AgateHunter)
+My name is Natalie Stone, and I am a Software Developer with Code Fellows. After an expansive career as a military musician, I decided to change course and explore the ways that I can positively impact the world around me through technology. ![GithHub Profile](https://github.com/AgateHunter)
 
 ![Natalie doing things](https://www.transmarine.com/wp-content/uploads/2023/04/bellingham.jpg)
 
