@@ -1,11 +1,15 @@
 # Code Fellows Reading Notes
 
 
+## Introduction
+My name is Natalie Stone, and I am a Software Developer with Code Fellows. After an expansive career as a military musician, I decided to change course and explore the ways that I can positively impact the world around me through technology.
 
-My name is Natalie Stone, and I am a Software Developer with Code Fellows. ![GithHub Profile](https://github.com/AgateHunter)
+![GithHub Profile](https://github.com/AgateHunter)
 
 ![Natalie doing things](https://www.transmarine.com/wp-content/uploads/2023/04/bellingham.jpg)
 
+## About This Page
+Join me on my learning journey, as I exercise my mind's capacity to learn new things, and practices the many ways of having a growth mindset. On this page, I will be documenting key concepts necessary for strong software developers, and sharing them in a way that is easily accessible, even to those with no technical background! 
 
 
 
