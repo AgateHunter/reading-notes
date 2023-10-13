@@ -40,5 +40,6 @@ can know that the semantics "bold" in HTML means that the weight of the font wil
 *Semantic elements* are tags that describe the meaning of what is contained within them. It gives greater structure to the HTML page and the other pieces of content within those tags.
 
 Here is a good example, from the website Semrush:
-![Semantics vs non-semantics](https://www.semrush.com/blog/semantic-html5-guide/)
+
+![Semantics vs non-semantics](https://static.semrush.com/blog/uploads/media/cc/85/cc85d452a743e27f68d426df35e4da7d/original.png)
 
