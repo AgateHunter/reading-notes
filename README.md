@@ -11,9 +11,9 @@ Join me on my learning journey, as I exercise my mind's capacity to learn new th
 
 
 
-## Table of Contents
+### Table of Contents
 
-### Code 102 Reading Notes
+## Code 102 Reading Notes
 
 [Code 102: Lesson 01 - Learning Markdown](102-notes/read01.md)
 
@@ -31,7 +31,7 @@ Join me on my learning journey, as I exercise my mind's capacity to learn new th
 
 [Code 102: Lesson 08 - Operators and Loops](102-notes/read08.md)
   
-### Code 201 Reading Notes
+## Code 201 Reading Notes
 
 [Code 201: Lesson 01 - Coming Soon!](201-notes/read01.md)
 
@@ -62,3 +62,7 @@ Join me on my learning journey, as I exercise my mind's capacity to learn new th
 [Code 201: Lesson 14 - Coming Soon!](201-notes/read14.md)
 
 [Code 201: Lesson 15 - Coming Soon!](201-notes/read15.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
