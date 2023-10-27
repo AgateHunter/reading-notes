@@ -37,15 +37,15 @@ Join me on my learning journey, as I exercise my mind's capacity to learn new th
   
 ## Code 201 Reading Notes
 
-[Lesson 01 - Coming Soon!](201-notes/read01.md)
+[Lesson 01 - Setup Developer Toolbelt](201-notes/read01.md)
 
-[Lesson 02 - Coming Soon!](201-notes/read02.md)
+[Lesson 02 - Introduction To Web Development](201-notes/read02.md)
 
-[Lesson 03 - Coming Soon!](201-notes/read03.md)
+[Lesson 03 - Lists, The Box Model, and Loops](201-notes/read03.md)
 
-[Lesson 04 - Coming Soon!](201-notes/read04.md)
+[Lesson 04 - Links, Layouts, and Functions](201-notes/read04.md)
 
-[Lesson 05 - Coming Soon!](201-notes/read05.md)
+[Lesson 05 - Images, Color, Text, and More Work With Functions](201-notes/read05.md)
 
 [Lesson 06 - Coming Soon!](201-notes/read06.md)
 
