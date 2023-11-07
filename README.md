@@ -59,7 +59,7 @@ Join me on my learning journey, as I exercise my mind's capacity to learn new th
 
 [Lesson 11 - Coming Soon!](201-notes/read11.md)
 
-[Lesson 12 - Coming Soon!](201-notes/read12.md)
+[Lesson 12 - Chart.js, Canvas](201-notes/read12.md)
 
 [Lesson 13 - Coming Soon!](201-notes/read13.md)
 
