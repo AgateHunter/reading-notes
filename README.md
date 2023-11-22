@@ -71,6 +71,7 @@ Join me on my learning journey, as I exercise my mind's capacity to learn new th
 
 ## Code 301 - Intermediate Software Development
 Coming November 2023!!
+[Code 301 Prework](301-notes/prework.md)
 
 ## Code 401 - Advanced Software Development
 Coming January 2024!!
