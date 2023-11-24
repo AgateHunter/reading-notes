@@ -1,4 +1,4 @@
-# Code Fellows Reading Notes
+Reading Notes
 
 
 ## Introduction
@@ -17,7 +17,7 @@ Join me on my learning journey, as I exercise my mind's capacity to learn new th
 ### Table of Contents
 >>>>>>> f6b976203136585e2b775c8c57b626bb2eddc989
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 [Lesson 01 - Learning Markdown](102-notes/read01.md)
 
@@ -35,7 +35,7 @@ Join me on my learning journey, as I exercise my mind's capacity to learn new th
 
 [Lesson 08 - Operators and Loops](102-notes/read08.md)
   
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 [Lesson 01 - Setup Developer Toolbelt](201-notes/read01.md)
 
