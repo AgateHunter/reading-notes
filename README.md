@@ -71,7 +71,38 @@ Join me on my learning journey, as I exercise my mind's capacity to learn new th
 
 ## Code 301 - Intermediate Software Development
 Coming November 2023!!
+
 [Code 301 Prework](301-notes/prework.md)
+
+[Code 301](301-notes/read01.md)
+
+[Code 301](301-notes/read02.md)
+
+[Code 301](301-notes/read03.md)
+
+[Code 301](301-notes/read04.md)
+
+[Code 301](301-notes/read05.md)
+
+[Code 301](301-notes/read06.md)
+
+[Code 301](301-notes/read07.md)
+
+[Code 301](301-notes/read08.md)
+
+[Code 301](301-notes/read09.md)
+
+[Code 301](301-notes/read10.md)
+
+[Code 301](301-notes/read11.md)
+
+[Code 301](301-notes/read12.md)
+
+[Code 301](301-notes/read13.md)
+
+[Code 301](301-notes/read14.md)
+
+[Code 301](301-notes/read15.md)
 
 ## Code 401 - Advanced Software Development
 Coming January 2024!!
