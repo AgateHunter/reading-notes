@@ -74,35 +74,35 @@ Coming November 2023!!
 
 [Code 301 Prework](301-notes/prework.md)
 
-[Code 301](301-notes/read01.md)
+[Lesson 01 - Introduction to React and Components](301-notes/read01.md)
 
-[Code 301](301-notes/read02.md)
+[Lesson 02 - State and Props](301-notes/read02.md)
 
-[Code 301](301-notes/read03.md)
+[Lesson 03 - ](301-notes/read03.md)
 
-[Code 301](301-notes/read04.md)
+[Lesson 04 - ](301-notes/read04.md)
 
-[Code 301](301-notes/read05.md)
+[Lesson 05 - ](301-notes/read05.md)
 
-[Code 301](301-notes/read06.md)
+[Lesson 06 - ](301-notes/read06.md)
 
-[Code 301](301-notes/read07.md)
+[Lesson 07 - ](301-notes/read07.md)
 
-[Code 301](301-notes/read08.md)
+[Lesson 08 - ](301-notes/read08.md)
 
-[Code 301](301-notes/read09.md)
+[Lesson 09 - ](301-notes/read09.md)
 
-[Code 301](301-notes/read10.md)
+[Lesson 10 - ](301-notes/read10.md)
 
-[Code 301](301-notes/read11.md)
+[Lesson 11 - ](301-notes/read11.md)
 
-[Code 301](301-notes/read12.md)
+[Lesson 12 - ](301-notes/read12.md)
 
-[Code 301](301-notes/read13.md)
+[Lesson 13 - ](301-notes/read13.md)
 
-[Code 301](301-notes/read14.md)
+[Lesson 14 - ](301-notes/read14.md)
 
-[Code 301](301-notes/read15.md)
+[Lesson 15 - ](301-notes/read15.md)
 
 ## Code 401 - Advanced Software Development
 Coming January 2024!!
