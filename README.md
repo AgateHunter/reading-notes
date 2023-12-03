@@ -82,7 +82,7 @@ Coming November 2023!!
 
 [Lesson 04 - ](301-notes/read04.md)
 
-[Lesson 05 -  ](301-notes/read05.md)
+[Lesson 05 - Putting it All Together ](301-notes/read05.md)
 
 [Lesson 06 - REST ](301-notes/read06.md)
 
