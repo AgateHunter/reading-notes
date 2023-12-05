@@ -86,7 +86,7 @@ Coming November 2023!!
 
 [Lesson 06 - REST ](301-notes/read06.md)
 
-[Lesson 07 - ](301-notes/read07.md)
+[Lesson 07 - Node.Js ](301-notes/read07.md)
 
 [Lesson 08 - ](301-notes/read08.md)
 
