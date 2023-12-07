@@ -44,3 +44,6 @@ You'll write *module.exports =* then state what function is to be set. Then you'
 
 > **Example** var example = require('./example');
 
+## Things I would like to know more about.
+
+- Do you list out all the functions that can be used in one line of code, or do you create multiple statements for each function that will be used when a module is called? What is best practice?
