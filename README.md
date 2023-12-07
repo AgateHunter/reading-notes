@@ -90,7 +90,7 @@ Coming November 2023!!
 
 [Lesson 08 - ](301-notes/read08.md)
 
-[Lesson 09 - ](301-notes/read09.md)
+[Lesson 09 - Functional Programming](301-notes/read09.md)
 
 [Lesson 10 - ](301-notes/read10.md)
 
