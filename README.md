@@ -92,7 +92,7 @@ Coming November 2023!!
 
 [Lesson 09 - Functional Programming](301-notes/read09.md)
 
-[Lesson 10 - ](301-notes/read10.md)
+[Lesson 10 - In Memory Storage](301-notes/read10.md)
 
 [Lesson 11 - ](301-notes/read11.md)
 
