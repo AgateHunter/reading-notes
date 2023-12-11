@@ -94,7 +94,7 @@ Coming November 2023!!
 
 [Lesson 10 - In Memory Storage](301-notes/read10.md)
 
-[Lesson 11 - ](301-notes/read11.md)
+[Lesson 11 - MongoDB and Mongoose](301-notes/read11.md)
 
 [Lesson 12 - ](301-notes/read12.md)
 
