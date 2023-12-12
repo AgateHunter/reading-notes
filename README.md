@@ -96,7 +96,7 @@ Coming November 2023!!
 
 [Lesson 11 - MongoDB and Mongoose](301-notes/read11.md)
 
-[Lesson 12 - ](301-notes/read12.md)
+[Lesson 12 - CRUD](301-notes/read12.md)
 
 [Lesson 13 - ](301-notes/read13.md)
 
